@@ -1,0 +1,11 @@
+.buttons_wrapper {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.button_item {
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
